@@ -15,5 +15,5 @@ Features:
 - 🔋 Power-saving screen activation
 - 💡 LED watering alerts
 
-- (◕‿◕)🌱 "I'm happy!"
-- (╥﹏╥)🌱 "Please water me..."
+ - (◕‿◕)🌱 "I'm happy!"
+ - (╥﹏╥)🌱 "Please water me..."
