@@ -13,6 +13,6 @@ Features:
 - 💬 Cute plant status messages
 - 📊 Real-time soil moisture percentage display
 - 🔋 Power-saving screen activation
-- 💡 LED watering alerts
+- 💡 LED watering alerts:
   - (◕‿◕)🌱 "I'm happy!"
   - (╥﹏╥)🌱 "Please water me..."
