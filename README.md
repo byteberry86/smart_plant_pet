@@ -31,3 +31,12 @@ Even when the display is off, the Plant Pet continues monitoring soil conditions
 
 - 📁 Images
   - Personal Artwork
+ 
+## Future Upgrates 
+- [ ] More plant species
+- [ ] Plant specific soil moisture conditions
+- [ ] Day/night cycle
+- [ ] Save data to SD card
+- [ ] Sound effects
+- [ ] Touchscreen support 
+- [ ] Weather system Integrated
