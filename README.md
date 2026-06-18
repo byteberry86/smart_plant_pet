@@ -6,13 +6,13 @@ The TFT display remains asleep to conserve power and is only activated when the 
 
 Even when the display is off, the Plant Pet continues monitoring soil conditions. If the soil becomes too dry, a warning LED will blink and remain illuminated until the plant is watered, ensuring important alerts are never missed.
 
-Features:
-- 🌱 Soil moisture monitoring
-- 👀 Motion-activated TFT display
-- 🎨 Custom plant emotion drawings
-- 💬 Cute plant status messages
-- 📊 Real-time soil moisture percentage display
-- 🔋 Power-saving screen activation
-- 💡 LED watering alerts:
-  - (◕‿◕)🌱 "I'm happy!"
-  - (╥﹏╥)🌱 "Please water me..."
+# Features 🌱:
+- Soil moisture monitoring
+- Motion-activated TFT display
+- Custom plant emotion drawings
+- Cute plant status messages
+- Real-time soil moisture percentage display
+- Power-saving screen activation
+- LED watering alerts:
+  - (◕‿◕) "I'm happy!"
+  - (╥﹏╥) "Please water me..."
