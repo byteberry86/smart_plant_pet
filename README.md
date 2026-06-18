@@ -32,7 +32,7 @@ Even when the display is off, the Plant Pet continues monitoring soil conditions
 - 📁 Images
   - Personal Artwork
  
-## Future Upgrates 
+## ✨ Future Upgrates 
 - [ ] More plant species
 - [ ] Plant specific soil moisture conditions
 - [ ] Day/night cycle
