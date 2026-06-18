@@ -19,14 +19,16 @@ Even when the display is off, the Plant Pet continues monitoring soil conditions
 
 # 🌿 Project Structure
 
-📁 Hardware
-   └── Schematics, wiring diagrams, and component information
+## 🌿 Project Structure
 
-📁 Software
-   └── Arduino code and supporting scripts
+- 📁 Hardware
+  - Schematics, wiring diagrams, and component information
 
-📁 Sources
-   └── Datasheets, references, and documentation
+- 📁 Software
+  - Arduino code and supporting scripts
 
-📁 Images
-   └── Screenshots and artwork
+- 📁 Sources
+  - Datasheets, references, and documentation
+
+- 📁 Images
+  - Screenshots and artwork
