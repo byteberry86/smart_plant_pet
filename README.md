@@ -16,3 +16,17 @@ Even when the display is off, the Plant Pet continues monitoring soil conditions
 - LED watering alerts:
   - (◕‿◕) "I'm happy!"
   - (╥﹏╥) "Please water me..."
+
+# 🌿 Project Structure
+
+📁 Hardware
+   └── Schematics, wiring diagrams, and component information
+
+📁 Software
+   └── Arduino code and supporting scripts
+
+📁 Sources
+   └── Datasheets, references, and documentation
+
+📁 Images
+   └── Screenshots and artwork
