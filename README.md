@@ -1,4 +1,4 @@
-#  ･ﾟ✧ Smart Plant Pet ✧･ﾟ 🌱 (⊙_⊙)
+#  🪴 ･ﾟ✧ Smart Plant Pet ✧･ﾟ 🪴 (⊙_⊙)
 
 An Arduino-based interactive plant companion that monitors soil moisture and gives your plant its own personality!
 
