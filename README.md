@@ -17,6 +17,7 @@ Even when the display is off, the Plant Pet continues monitoring soil conditions
   - (◕‿◕) "I'm happy!"
   - (╥﹏╥) "Please water me..."
 
+
 ## 🌿 Project Structure
 
 - 📁 Hardware
@@ -26,7 +27,7 @@ Even when the display is off, the Plant Pet continues monitoring soil conditions
   - Arduino code and supporting scripts
 
 - 📁 Sources
-  - Datasheets, references, and documentation
+  - References/documentation
 
 - 📁 Images
-  - Screenshots and artwork
+  - Personal Artwork
