@@ -40,4 +40,3 @@ Even when the display is off, the Plant Pet continues monitoring soil conditions
 - [ ] Sound effects
 - [ ] Touchscreen support 
 - [ ] Weather system Integrated
-- [ ] Assisted plant care recommendations based on plant species and sensor history
